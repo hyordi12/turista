@@ -1,19 +1,51 @@
-Información para Turistas sobre Las Coloradas
-1. ¿Qué es Las Coloradas?
-Las Coloradas es una serie de lagunas de agua rosa situadas en Yucatán, México. Son famosas por sus vibrantes tonos rosados y naranjas, causados por microorganismos que prosperan en sus aguas salinas.
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Información para Turistas sobre Las Coloradas</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            background-color: #f9f9f9;
+            color: #333;
+            margin: 20px;
+        }
+        h1 {
+            color: #007BFF;
+        }
+        h2 {
+            color: #0056b3;
+        }
+    </style>
+</head>
+<body>
 
-2. Cómo llegar
-Desde Cancún o Mérida, el viaje toma aproximadamente 3-4 horas en auto. Puedes tomar una excursión guiada o alquilar un auto para llegar de forma independiente.
+    <h1>Información para Turistas sobre Las Coloradas</h1>
 
-3. ¿Por qué el agua es rosa?
-El color rosa es causado por un tipo de alga y la alta salinidad. Estos microorganismos le dan a las aguas sus tonos únicos.
+    <h2>1. ¿Qué es Las Coloradas?</h2>
+    <p>Las Coloradas es una serie de lagunas de agua rosa situadas en Yucatán, México. Son famosas por sus vibrantes tonos rosados y naranjas, causados por microorganismos que prosperan en sus aguas salinas.</p>
 
-4. Qué esperar en Las Coloradas
-No está permitido nadar en las lagunas para proteger el ecosistema. Lleva sombrero, protector solar ecológico y agua, ya que puede hacer mucho calor.
+    <h2>2. Cómo llegar</h2>
+    <p>Desde Cancún o Mérida, el viaje toma aproximadamente 3-4 horas en auto. Puedes tomar una excursión guiada o alquilar un auto para llegar de forma independiente.</p>
 
-5. Actividades sugeridas
-Fotografía de las lagunas y su color espectacular.
-Observación de flamencos en ciertas temporadas.
-Recorridos guiados para aprender sobre el ecosistema y la historia local.
-6. Consejos útiles
-Visita en la mañana o al final de la tarde para evitar el calor intenso. Lleva efectivo, ya que algunos servicios no aceptan tarjetas.
+    <h2>3. ¿Por qué el agua es rosa?</h2>
+    <p>El color rosa es causado por un tipo de alga y la alta salinidad. Estos microorganismos le dan a las aguas sus tonos únicos.</p>
+
+    <h2>4. Qué esperar en Las Coloradas</h2>
+    <p>No está permitido nadar en las lagunas para proteger el ecosistema. Lleva sombrero, protector solar ecológico y agua, ya que puede hacer mucho calor.</p>
+
+    <h2>5. Actividades sugeridas</h2>
+    <ul>
+        <li>Fotografía de las lagunas y su color espectacular.</li>
+        <li>Observación de flamencos en ciertas temporadas.</li>
+        <li>Recorridos guiados para aprender sobre el ecosistema y la historia local.</li>
+    </ul>
+
+    <h2>6. Consejos útiles</h2>
+    <p>Visita en la mañana o al final de la tarde para evitar el calor intenso. Lleva efectivo, ya que algunos servicios no aceptan tarjetas.</p>
+
+</body>
+</html>
+
