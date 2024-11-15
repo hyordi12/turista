@@ -8,15 +8,30 @@
         body {
             font-family: Arial, sans-serif;
             line-height: 1.6;
-            background-color: #f9f9f9;
+            background-color: #FFC1CC; /* Fondo rosado claro */
             color: #333;
             margin: 20px;
         }
         h1 {
-            color: #007BFF;
+            color: #800000; /* Tono rojo oscuro para el título principal */
+            font-size: 2.4em;
+            margin-bottom: 10px;
         }
         h2 {
-            color: #0056b3;
+            color: #B22222; /* Tono rojo más claro para los subtítulos */
+            font-size: 1.8em;
+            margin-top: 20px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 1.1em;
+            margin-bottom: 15px;
+        }
+        ul {
+            font-size: 1.1em;
+            list-style-type: disc;
+            margin-left: 20px;
+            margin-bottom: 15px;
         }
     </style>
 </head>
@@ -48,4 +63,5 @@
 
 </body>
 </html>
+
 
